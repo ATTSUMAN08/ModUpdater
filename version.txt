@@ -1,0 +1,2 @@
+1.0.0;https://www.curseforge.com/api/v1/mods/460405/files/4440361/download;https://www.curseforge.com/api/v1/mods/552176/files/4441299/download
+2.0.0;https://www.curseforge.com/api/v1/mods/537613/files/4568641/download;https://www.curseforge.com/api/v1/mods/550532/files/4571788/download
